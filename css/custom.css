@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* common css  */
+
+*html,body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Arvo", serif;
+
+
+}
+/* header */
+.container-fluid.navbar-brand
+{
+font-size:1rem;
+
+}
+.nav-link{
+    font-size: 16px;
+}
+#particle-js{
+    width: 100%;
+    max-height: 100vh;
+    position: absolute;
+    top: 0%;left: 0%;
+    background-color: #527cec;
+}
